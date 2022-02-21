@@ -1,4 +1,4 @@
-This is a C code made for my master thesis study. The paper is available in [my blog](https://lookbackmargin.blog/2020/05/11/mars-co2-system-and-obliquity/)
+This is a C code made for my master thesis study. The paper is available in [my blog](https://lookbackmargin.blog/2020/05/11/mars-co2-system-and-obliquity/). Following Abstract is from my thesis.
 
 # Abstract
 The climate of Mars is dominated by CO2. This is because 95% of the atmosphere of Mars consists of CO2, and the ice-caps and surface regolith layers are large reservoirs of CO2. Exchange of CO2 among these three CO2 reservoirs on the Martian surface should therefore play a great role in determining the global climate of Mars.
