@@ -1,5 +1,27 @@
 This is a C code made for a study of my master's thesis. The following Abstract is from the thesis, which is available on [my blog](https://lookbackmargin.blog/2020/05/11/mars-co2-system-and-obliquity/).
 
+# Compile & Execute
+```
+takeru@opal:~$ gcc test.c -lm
+takeru@opal:~$ ./a.out 
+```
+Then you would hopefuly get following message in console during execution.
+```
+The 0 th loop begins.
+The 1 th loop begins.
+...
+The 75 th loop begins.
+0.00756976(air), 0.0899085(ice), 0.0325217(rego), 149.484(T_sub), 76 loops, with no bug
+```
+When finished, would get seven files below.
+* M_flat.dat
+* T_flat.dat
+* M_nega.dat
+* T_nega.dat
+* M_posi.dat
+* T_posi.dat
+* fCO2.dat
+
 # Abstract
 The climate of Mars is dominated by CO2. This is because 95% of the atmosphere of Mars consists of CO2, and the ice-caps and surface regolith layers are large reservoirs of CO2. Exchange of CO2 among these three CO2 reservoirs on the Martian surface should therefore play a great role in determining the global climate of Mars.
 
