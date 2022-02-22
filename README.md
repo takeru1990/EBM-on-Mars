@@ -1,4 +1,4 @@
-This is a C code made for a study of my master's thesis. The following Abstract is from the thesis, which is available on [my blog](https://lookbackmargin.blog/2020/05/11/mars-co2-system-and-obliquity/).
+`test.c` is a C code made for a study of my master's thesis. It was last modified on 2015/01/06, according to file's metadata.
 
 # Compile & Execute
 ```
@@ -21,6 +21,8 @@ When finished, would get seven files below.
 * M_posi.dat
 * T_posi.dat
 * fCO2.dat
+
+The following Abstract is from the thesis, which is available on [my blog](https://lookbackmargin.blog/2020/05/11/mars-co2-system-and-obliquity/).
 
 # Abstract
 The climate of Mars is dominated by CO2. This is because 95% of the atmosphere of Mars consists of CO2, and the ice-caps and surface regolith layers are large reservoirs of CO2. Exchange of CO2 among these three CO2 reservoirs on the Martian surface should therefore play a great role in determining the global climate of Mars.
