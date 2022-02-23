@@ -5,15 +5,18 @@
 takeru@opal:~$ gcc test.c -lm
 takeru@opal:~$ ./a.out 
 ```
-Then you would hopefuly get following message in console during execution.
+Then you would hopefuly get progress info in console during execution.
 ```
 The 0 th loop begins.
 The 1 th loop begins.
 ...
 The 75 th loop begins.
+```
+
+When finished, you would get 7 files below with result info in console.
+```
 0.00756976(air), 0.0899085(ice), 0.0325217(rego), 149.484(T_sub), 76 loops, with no bug
 ```
-When finished, would get seven files below.
 * M_flat.dat
 * T_flat.dat
 * M_nega.dat
