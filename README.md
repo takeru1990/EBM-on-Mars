@@ -2,8 +2,8 @@
 
 # Compile & Execute
 ```
-takeru@opal:~$ gcc test.c -lm
-takeru@opal:~$ ./a.out 
+$ gcc test.c -lm
+$ ./a.out 
 ```
 Then you would hopefuly get progress info in console during execution.
 ```
